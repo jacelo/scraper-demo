@@ -1,0 +1,13 @@
+product:
+    css: 'div#centerCol.centerColAlign'
+    xpath: null
+    type: Text
+    children:
+        name:
+            css: span.a-size-large
+            xpath: null
+            type: Text
+        price:
+            css: span.a-size-medium
+            xpath: null
+            type: Text

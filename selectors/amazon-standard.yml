@@ -1,0 +1,14 @@
+product:
+    css: div.a-scroller
+    xpath: null
+    type: Text
+    children:
+        name:
+            css: 'div.a-fixed-left-grid-col h5.aod-asin-title-text-class'
+            xpath: null
+            type: Text
+        price:
+            css: span.a-offscreen
+            xpath: null
+            multiple: true
+            type: Text
